@@ -10,7 +10,7 @@
 我认为这类项目最好能得到院校领导老师的支持：可参考中科大、华科大等高校编写的飞跃手册。
 
 -------附：部分院校飞跃手册------
-（网站链接、部分可下载pdf）
+***（部分可下载pdf）
 
 2018-2020华中科技大学OEI&SES飞跃手册：https://hust-feiyue.github.io/
 
@@ -19,5 +19,4 @@
 2020中科大数学：http://home.ustc.edu.cn/~hichychen/fly2020.html#%E4%BA%8C
 
 南方科技大学飞跃手册: https://sustech-application.com/#/
-
 *2019fall见：https://sustech-application.github.io/2019-Fall/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c-2019-fall
