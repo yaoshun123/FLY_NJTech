@@ -19,4 +19,5 @@
 2020中科大数学：http://home.ustc.edu.cn/~hichychen/fly2020.html#%E4%BA%8C
 
 南方科技大学飞跃手册: https://sustech-application.com/#/
-*2019fall见：https://sustech-application.github.io/2019-Fall/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c-2019-fall
+
+2019fall南方科技大学飞跃手册：https://sustech-application.github.io/2019-Fall/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c-2019-fall
