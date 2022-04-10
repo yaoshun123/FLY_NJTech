@@ -26,5 +26,5 @@
 
 持续更新-Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates 
 
-***MORE：浙大（数科、电气）；南大（数学、CS）
+***MORE：浙大（数科、电气、CS）；南大（数学、CS）
 
