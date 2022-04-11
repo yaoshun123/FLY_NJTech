@@ -16,7 +16,7 @@
 南方科技大学: https://sustech-application.com/#/
 --19fall：https://sustech-application.github.io/2019-Fall/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c-2019-fall
 
-上海交通大学大学：https://survivesjtu.github.io/SJTU-Application/#/
+上海交通大学：https://survivesjtu.github.io/SJTU-Application/#/
 
 安徽大学：https://www.ahu.wiki/#/
 
