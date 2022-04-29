@@ -29,7 +29,7 @@
 
 ---整理很多高校的“课程资源共享计划”：https://pan.zzy2001.com/s/PKfB?path=%2F 
 
----计算机实习面经：“同济大学2021届面经”：https://github.com/wenjunBZ/RushForOffer
+---计算机实习面经，“同济大学2021届面经”：https://github.com/wenjunBZ/RushForOffer
 
 功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates 
 
