@@ -11,7 +11,7 @@
 
 
 
--------附上我在网上能搜集到的、近几年各类院校飞跃手册（无障碍浏览下载），供学习参考-------
+-------附上我在网上能搜集到的、近几年各类院校飞跃手册（无障碍浏览/下载；包括引申的各类资源），供学习参考-------
 
 浙大数科：http://www.math.zju.edu.cn/38102/list1.htm  
 
@@ -23,6 +23,9 @@
 上海交通大学：https://survivesjtu.github.io/SJTU-Application/#/
 
 安徽大学：https://www.ahu.wiki/#/
+---汇总上交、东南等“生存手册”：https://www.ahu.wiki/#/Golden-years/README
+---整理很多高校的“课程资源共享计划”：https://pan.zzy2001.com/s/PKfB?path=%2F 
+---计算机实习面经：“同济大学2021届面经”：https://github.com/wenjunBZ/RushForOffer
 
 功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates 
 
