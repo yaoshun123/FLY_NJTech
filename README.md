@@ -25,11 +25,11 @@
 
 安徽大学：https://www.ahu.wiki/#/
 
----汇总上交、东南等“生存手册”：https://www.ahu.wiki/#/Golden-years/README
+---汇总几所高校的“生存手册”：https://www.ahu.wiki/#/Golden-years/README
 
----整理很多高校的“课程资源共享计划”：https://pan.zzy2001.com/s/PKfB?path=%2F 
+---汇总很多高校的“课程资源共享计划”：https://pan.zzy2001.com/s/PKfB?path=%2F 
 
----计算机实习面经，“同济大学2021届面经”：https://github.com/wenjunBZ/RushForOffer
+---还有计算机实习面经，“同济大学2021届面经”：https://github.com/wenjunBZ/RushForOffer
 
 功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates 
 
