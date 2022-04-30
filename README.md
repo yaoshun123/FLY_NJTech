@@ -31,6 +31,8 @@
 
 ---还有计算机实习面经，“同济大学2021届面经”：https://github.com/wenjunBZ/RushForOffer
 
+---“大小挑战杯”、“互联网+”等攻略可参考：https://www.ahu.wiki/#/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E6%AF%94%E8%B5%9B/17-%E6%96%B0%E8%83%BD%E6%BA%90-%E9%99%88%E7%82%B3%E6%97%AD 
+
 功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates 
 
 东南大学20：https://www.yuque.com/2020seufly/guide 
