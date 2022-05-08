@@ -11,7 +11,7 @@
 
 --------------
 
-更新1：没想到，本飞跃手册会被收录在“润学”里：https://github.com/The-Run-Philosophy-Organization/run 
+更新1：才发现本飞跃手册，被收录在“润Run学”里了：https://github.com/The-Run-Philosophy-Organization/run 
 
 --------------
 
