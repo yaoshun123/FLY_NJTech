@@ -40,6 +40,8 @@
 
 东南大学20：https://www.yuque.com/2020seufly/guide 
 
+武汉大学数学与统计学院20: https://www.yuque.com/2020whumathstat/fly-sheet 
+
 中科大数学20：http://home.ustc.edu.cn/~hichychen/fly2020.html#%E4%BA%8C
 
 浙大电气19：http://ee.zju.edu.cn/_upload/article/files/e5/cb/875540014b9489d2cec796955ea7/d1051aae-5958-4137-9ebd-f5b59fea0230.pdf
