@@ -12,7 +12,8 @@
 --------------
 
 此外网上还能搜集到近几年各类院校飞跃手册，亲测可无障碍浏览或下载。有些还包括各类引申资源。最后未标明年份的，即为持续更新。
-**找到了华东理工的github分享页面: https://github.com/paulzrq/Ecust-Leap 
+
+*最近找到了华东理工的github分享页面: https://github.com/paulzrq/Ecust-Leap 
 
 浙大数科：http://www.math.zju.edu.cn/38102/list1.htm  
 
