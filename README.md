@@ -13,13 +13,13 @@
 
 此外网上还能搜集到近几年各类院校飞跃手册，亲测可无障碍浏览或下载。有些还包括各类引申资源。最后未标明年份的，即为持续更新；加*为近期找到的
 
-*海南大学github分享页面：https://hainanu-application.github.io/#/
+*海南大学：https://hainanu-application.github.io/#/
 
 *大连理工18：https://github.com/alexedinburgh/dutOverseas
 
-*西交利物浦github分享页面: https://awesome-xjtlu.github.io/wiki/#/ 
+*西交利物浦: https://awesome-xjtlu.github.io/wiki/#/ 
 
-*华东理工github分享页面: https://github.com/paulzrq/Ecust-Leap 
+*华东理工: https://github.com/paulzrq/Ecust-Leap 
 
 浙大数科：http://www.math.zju.edu.cn/38102/list1.htm  （*近期开始已需要内网访问，请自行转用搜索引擎。）
 
