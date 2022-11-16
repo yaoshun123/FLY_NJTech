@@ -13,7 +13,9 @@
 
 此外网上还能搜集到近几年各类院校飞跃手册，亲测可无障碍浏览或下载。有些还包括各类引申资源。最后未标明年份的，即为持续更新；加*为近期找到的
 
-*浙江大学经济学院飞跃手册22：http://www.cec.zju.edu.cn/_upload/article/files/03/a3/e057756846478737d7b923f5bec9/785cb61a-7ec2-4bdf-8035-fb1e6e15c6a0.pdf 
+*浙江大学经济学院22：http://www.cec.zju.edu.cn/_upload/article/files/03/a3/e057756846478737d7b923f5bec9/785cb61a-7ec2-4bdf-8035-fb1e6e15c6a0.pdf 
+
+*浙江大学外语20：http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf
 
 海南大学：https://hainanu-application.github.io/#/
 
@@ -23,7 +25,7 @@
 
 华东理工: https://github.com/paulzrq/Ecust-Leap 
 
-浙大数科：http://www.math.zju.edu.cn/38102/list1.htm  （*近期开始已需要内网访问，请自行转用搜索引擎。）
+浙大数科：http://www.math.zju.edu.cn/38102/list1.htm  （*近期开始已需要内网访问，请自行转用搜索引擎寻找available资源）
 
 华中科技大学OEI&SES：https://hust-feiyue.github.io/
 
@@ -48,6 +50,6 @@
 
 武汉大学数学与统计学院20: https://www.yuque.com/2020whumathstat/fly-sheet 
 
-中科大数学20：http://home.ustc.edu.cn/~hichychen/fly2020.html#%E4%BA%8C
+中科大数学20：http://home.ustc.edu.cn/~hichychen/fly2020.html#%E4%BA%8C （*已失效；离线备份可参考https://github.com/The-Run-Philosophy-Organization/run/issues/440）
 
 浙大电气19：http://ee.zju.edu.cn/_upload/article/files/e5/cb/875540014b9489d2cec796955ea7/d1051aae-5958-4137-9ebd-f5b59fea0230.pdf
