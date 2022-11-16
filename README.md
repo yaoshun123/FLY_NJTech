@@ -13,9 +13,9 @@
 
 此外网上还能搜集到近几年各类院校飞跃手册，有些还包括各类引申资源；未标明年份的，即为持续更新；加*为近期找到的，或者近期有变化，得通过其他途径搜索访问。
 
-*浙江大学经济学院22：http://www.cec.zju.edu.cn/_upload/article/files/03/a3/e057756846478737d7b923f5bec9/785cb61a-7ec2-4bdf-8035-fb1e6e15c6a0.pdf 
+*浙大经济学院22：http://www.cec.zju.edu.cn/_upload/article/files/03/a3/e057756846478737d7b923f5bec9/785cb61a-7ec2-4bdf-8035-fb1e6e15c6a0.pdf 
 
-*浙江大学外语20：http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf
+*浙大外语20：http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf
 
 海南大学：https://hainanu-application.github.io/#/
 
