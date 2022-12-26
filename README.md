@@ -30,7 +30,9 @@
 浙大数科：http://www.math.zju.edu.cn/38102/list1.htm  （*可无视内网标记，点进去下载）
 
 华中科技大学：
+
 ---OEI&SES：https://hust-feiyue.github.io/
+
 ---电气：https://hongyili.net/Feiyue/
 
 南方科技大学: https://sustech-application.com/#/   
