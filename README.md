@@ -46,7 +46,7 @@
 
 ---汇总很多高校的“课程资源共享计划”：https://pan.zzy2001.com/s/PKfB?path=%2F 
 
-功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates 
+功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*变更为：https://zliao555.github.io/flying_brochure/）
 
 东南大学20：https://www.yuque.com/2020seufly/guide 
 
