@@ -13,6 +13,8 @@
 
 此外还搜集了近几年各类院校飞跃手册：
 
+功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*已变更为：https://zliao555.github.io/flying_brochure/）
+
 宁诺CS21: **********（已留存）
 
 浙大经济学院22：http://www.cec.zju.edu.cn/_upload/article/files/03/a3/e057756846478737d7b923f5bec9/785cb61a-7ec2-4bdf-8035-fb1e6e15c6a0.pdf （*防失效，已留存）
@@ -45,8 +47,6 @@
 ---汇总几所高校的“生存手册”：https://www.ahu.wiki/#/Golden-years/README
 
 ---汇总很多高校的“课程资源共享计划”：https://pan.zzy2001.com/s/PKfB?path=%2F 
-
-功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*变更为：https://zliao555.github.io/flying_brochure/）
 
 东南大学20：https://www.yuque.com/2020seufly/guide 
 
