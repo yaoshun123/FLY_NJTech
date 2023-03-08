@@ -14,6 +14,7 @@
 固然，这是我的工作，需要不断搜集学习，但也是为了方便更多人吧。以上。
 
 --------------
+上海大学：https://shuosc.github.io/fly/ 
 
 功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*已变更为：https://zliao555.github.io/flying_brochure/ ）
 
@@ -21,7 +22,9 @@
 
 浙大经济学院22：http://www.cec.zju.edu.cn/_upload/article/files/03/a3/e057756846478737d7b923f5bec9/785cb61a-7ec2-4bdf-8035-fb1e6e15c6a0.pdf （*防失效，已留存）
 
-南大匡院学习分享平台：https://njudii.github.io/blog/ （*貌似2021年以后就未更新）
+南大匡院学习分享平台：https://njudii.github.io/blog/
+南大物理：https://jialanxin.github.io/njuphy-/
+（*貌似2022年开始就未更新）
 
 浙大外语20：http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf （*防失效，已留存）
 
