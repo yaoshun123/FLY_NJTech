@@ -14,6 +14,8 @@
 固然，这是我的工作，需要不断搜集学习，但也是为了方便更多人吧。以上。
 
 --------------
+四川大学：http://scu-flying.com/#/
+
 上海大学：https://shuosc.github.io/fly/ 
 
 功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*已变更为：https://zliao555.github.io/flying_brochure/ ）
