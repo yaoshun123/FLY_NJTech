@@ -14,6 +14,10 @@
 固然，这是我的工作，需要不断搜集学习，但也是为了方便更多人吧。以上。
 
 --------------
+有网友整理的更详细了。。。附上！！！
+各大高校留学、保研、考研、就业经验分享：https://github.com/nwuzmedoutlook/career-plan
+各大高校课程资源汇总，在Github上大学：https://github.com/nwuzmedoutlook/university
+
 四川大学：http://scu-flying.com/#/
 
 上海大学：https://shuosc.github.io/fly/ 
