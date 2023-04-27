@@ -20,6 +20,8 @@
 
 各大高校课程资源汇总，在Github上大学：https://github.com/nwuzmedoutlook/university
 
+---
+
 四川大学：http://scu-flying.com/#/
 
 上海大学：https://shuosc.github.io/fly/ 
