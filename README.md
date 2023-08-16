@@ -47,9 +47,7 @@
 （已留存）
 
 华中科技大学：
-
 ---OEI&SES：https://hust-feiyue.github.io/
-
 ---电气：https://hongyili.net/Feiyue/
 
 南方科技大学: https://sustech-application.com/#/   
@@ -58,7 +56,6 @@
 上海交通大学：https://survivesjtu.github.io/SJTU-Application/#/
 
 安徽大学：https://www.ahu.wiki/#/
-
 ---汇总几所高校的“生存手册”：https://www.ahu.wiki/#/Golden-years/README
 
 东南大学20：https://www.yuque.com/2020seufly/guide 
