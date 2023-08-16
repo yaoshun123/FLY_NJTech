@@ -19,6 +19,10 @@
 
 清华大学：https://feiyue.online/cases/ 
 
+南开大学：https://nkucs.icu/#/
+
+山东大学：https://sdu-application.github.io/sduapplication.github.io/#/ 
+
 四川大学：http://scu-flying.com/#/
 
 上海大学：https://shuosc.github.io/fly/ 
@@ -43,8 +47,7 @@
 
 华东理工: https://github.com/paulzrq/Ecust-Leap 
 
-浙大数科：http://www.math.zju.edu.cn/38102/list1.htm/
-（已留存）
+浙大数科21：http://www.math.zju.edu.cn/_upload/article/files/99/e1/32b8399349af89f05033bf19a32e/4fd486a5-8a4e-47f0-a9c1-9fdba8cae593.pdf（已留存）
 
 华中科技大学：
 ---OEI&SES：https://hust-feiyue.github.io/
