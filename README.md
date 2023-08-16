@@ -15,7 +15,7 @@
 
 各大高校课程资源汇总，在Github上大学：https://github.com/nwuzmedoutlook/university
 
----以下我搜集，部分PDF已留存见archive---
+----以下我持续搜集，部分PDF已留存见archive----
 
 清华大学：https://feiyue.online/cases/ 
 
@@ -43,7 +43,7 @@
 
 华东理工: https://github.com/paulzrq/Ecust-Leap 
 
-浙大数科：http://www.math.zju.edu.cn/38102/list1.htm（内网访问，已留存）
+浙大数科：http://www.math.zju.edu.cn/38102/list1.htm/（已留存）
 
 华中科技大学：
 
