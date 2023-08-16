@@ -15,26 +15,27 @@
 
 各大高校课程资源汇总，在Github上大学：https://github.com/nwuzmedoutlook/university
 
----
-*清华大学：https://feiyue.online/cases/ 
+---以下我搜集，部分PDF已留存见archive---
+
+清华大学：https://feiyue.online/cases/ 
 
 四川大学：http://scu-flying.com/#/
 
 上海大学：https://shuosc.github.io/fly/ 
 
-功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*已变更为：https://zliao555.github.io/flying_brochure/ ）
+功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*现已变更为：https://zliao555.github.io/flying_brochure/）
 
 宁诺CS21: ***（已留存）
 
-浙大经济学院22：http://www.cec.zju.edu.cn/_upload/article/files/03/a3/e057756846478737d7b923f5bec9/785cb61a-7ec2-4bdf-8035-fb1e6e15c6a0.pdf （*防失效，已留存）
+浙大经济学院22：http://www.cec.zju.edu.cn/_upload/article/files/03/a3/e057756846478737d7b923f5bec9/785cb61a-7ec2-4bdf-8035-fb1e6e15c6a0.pdf （已留存）
 
 南大匡院学习分享平台：https://njudii.github.io/blog/
 南大物理：https://jialanxin.github.io/njuphy-/
 （*貌似2022年开始就未更新）
 
-南大电院:18、19、21：https://picture.iczhiku.com/weixin/message1630843323166.html （*防失效，已留存）
+南大电院:18、19、21：https://picture.iczhiku.com/weixin/message1630843323166.html （已留存）
 
-浙大外语20：http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf （*防失效，已留存）
+浙大外语20：http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf （已留存）
 
 海南大学：https://hainanu-application.github.io/#/
 
@@ -42,7 +43,7 @@
 
 华东理工: https://github.com/paulzrq/Ecust-Leap 
 
-浙大数科：http://www.math.zju.edu.cn/38102/list1.htm  （*可无视内网标记，点进去下载）
+浙大数科：http://www.math.zju.edu.cn/38102/list1.htm  （请无视'内网'标记）
 
 华中科技大学：
 
@@ -65,7 +66,7 @@
 
 武汉大学数学与统计学院20: https://www.yuque.com/2020whumathstat/fly-sheet
 
-浙大电气19：http://ee.zju.edu.cn/_upload/article/files/e5/cb/875540014b9489d2cec796955ea7/d1051aae-5958-4137-9ebd-f5b59fea0230.pdf  （*防失效，已留存）
+浙大电气19：http://ee.zju.edu.cn/_upload/article/files/e5/cb/875540014b9489d2cec796955ea7/d1051aae-5958-4137-9ebd-f5b59fea0230.pdf  （已留存）
 
 大连理工18：https://github.com/alexedinburgh/dutOverseas
 
