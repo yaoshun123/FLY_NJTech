@@ -60,8 +60,6 @@
 
 ---汇总几所高校的“生存手册”：https://www.ahu.wiki/#/Golden-years/README
 
----汇总很多高校的“课程资源共享计划”：https://pan.zzy2001.com/s/PKfB?path=%2F 
-
 东南大学20：https://www.yuque.com/2020seufly/guide 
 
 武汉大学数学与统计学院20: https://www.yuque.com/2020whumathstat/fly-sheet
