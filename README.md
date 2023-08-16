@@ -43,7 +43,7 @@
 
 华东理工: https://github.com/paulzrq/Ecust-Leap 
 
-浙大数科：http://www.math.zju.edu.cn/38102/list1.htm  （请无视'内网'标记）
+浙大数科：http://www.math.zju.edu.cn/38102/list1.htm（内网访问，已留存）
 
 华中科技大学：
 
