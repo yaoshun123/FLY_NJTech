@@ -23,7 +23,7 @@
 
 上海大学：https://shuosc.github.io/fly/ 
 
-功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*现已变更为：https://zliao555.github.io/flying_brochure/）
+功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*现已变更为：https://zliao555.github.io/flying_brochure/ ）
 
 宁诺CS21: ***（已留存）
 
