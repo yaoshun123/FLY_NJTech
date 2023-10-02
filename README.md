@@ -71,4 +71,4 @@
 
 南京大学-南大数学15：*** （已留存）
 
-功率电子/电力电子Power Electronics 北美飞跃手册： https://zliao555.github.io/my-site/updates （*现已变更为：https://zliao555.github.io/flying_brochure/ ）
+功率电子/电力电子Power Electronics（桂涵东博士生前的一项志愿者项目）： https://zliao555.github.io/my-site/updates （*现已变更为：https://zliao555.github.io/flying_brochure/ ）
