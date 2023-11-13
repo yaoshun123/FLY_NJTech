@@ -25,7 +25,7 @@
 
 四川大学：http://scu-flying.com/#/
 
-上海大学-上大：https://shuosc.github.io/fly/ 、
+上海大学-上大：https://shuosc.github.io/fly/
 
 海南大学-海大：https://hainanu-application.github.io/#/
 
