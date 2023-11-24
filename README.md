@@ -42,7 +42,7 @@
 ---OEI&SES：https://hust-feiyue.github.io/
 ---电气：https://hongyili.net/Feiyue/
 
-南方科技大学-南科大: https://sustech-application.com/#/   
+南方科技大学-南科大: https://sustech-application.com/  （不知为啥网页暂时失效，GitHub仓库里还能正常更新？https://github.com/SUSTech-Application/SUSTechapplication/tree/master/docs） 
 ---19fall：https://sustech-application.github.io/2019-Fall/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c-2019-fall
 
 宁波诺丁汉大学-宁诺CS21: ***（已留存）
