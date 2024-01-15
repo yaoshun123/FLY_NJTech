@@ -53,7 +53,7 @@
 
 大连理工-大工18：https://github.com/alexedinburgh/dutOverseas
 
-浙江大学-浙大经济学院22：http://www.cec.zju.edu.cn/_upload/article/files/03/a3/e057756846478737d7b923f5bec9/785cb61a-7ec2-4bdf-8035-fb1e6e15c6a0.pdf （已留存）
+浙江大学-浙大经济学院22：***（已留存）
 
 浙江大学-浙大数科21：http://www.math.zju.edu.cn/_upload/article/files/99/e1/32b8399349af89f05033bf19a32e/4fd486a5-8a4e-47f0-a9c1-9fdba8cae593.pdf
 （已留存）
