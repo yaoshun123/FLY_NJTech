@@ -17,7 +17,7 @@
 
 ----以下我持续搜集，部分PDF已留存见archive----
 
-清华大学：https://feiyue.online/cases/ 
+清华大学：https://feiyue.online/
 
 南开大学：https://nkucs.icu/#/
 
