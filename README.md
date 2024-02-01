@@ -71,4 +71,4 @@
 
 南京大学-南大数学15：*** （已留存）
 
-功率电子/电力电子Power Electronics（桂涵东博士生前的一项志愿者项目）：https://flyingbrochure.org/
+功率电子/电力电子Power Electronics（最初是桂涵东博士发起的，后来志愿者们不断完善）：https://flyingbrochure.org/
