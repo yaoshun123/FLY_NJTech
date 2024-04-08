@@ -16,6 +16,9 @@
 各大高校课程资源汇总，在Github上大学：https://github.com/nwuzmedoutlook/university
 
 ----以下我持续搜集，部分PDF已留存见archive----
+吉林大学-吉大：2020 （已留存）
+
+中科大USTC：19信息 + 20CS （已留存）
 
 清华大学：https://feiyue.online/
 
