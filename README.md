@@ -71,7 +71,7 @@
 南京大学-南大物理：https://jialanxin.github.io/njuphy-/
 （*貌似2022年开始就未更新）
 
-南京大学-南大电院:18、19、21：https://picture.iczhiku.com/weixin/message1630843323166.html （已留存）
+南京大学-南大电院18、19、21：https://picture.iczhiku.com/weixin/message1630843323166.html （已留存）
 
 南京大学-南大数学15：*** （已留存）
 
