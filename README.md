@@ -15,6 +15,8 @@
 
 各大高校课程资源汇总，在Github上大学：https://github.com/nwuzmedoutlook/university
 
+还有个博主汇总了好多浙大的：https://www.zedongpeng.com/post/%E6%8E%A2%E7%B4%A2%E6%9B%B4%E5%A4%A7%E7%9A%84%E4%B8%96%E7%95%8C/
+
 ----以下我持续搜集，部分PDF已留存见archive----
 
 吉林大学-吉大：2020 （已留存）
