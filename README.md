@@ -15,9 +15,9 @@
 
 各大高校课程资源汇总，在Github上大学：https://github.com/nwuzmedoutlook/university
 
---
+--散装的--
 
-还有个博主汇总了好多浙大的（2018-2021）：https://www.zedongpeng.com/post/%E6%8E%A2%E7%B4%A2%E6%9B%B4%E5%A4%A7%E7%9A%84%E4%B8%96%E7%95%8C/
+有个博主汇总了好多浙大的（2018-2021）：https://www.zedongpeng.com/post/%E6%8E%A2%E7%B4%A2%E6%9B%B4%E5%A4%A7%E7%9A%84%E4%B8%96%E7%95%8C/
 
 --包含武大CS选校指南-2019：https://www.zedongpeng.com/uploads/%E6%AD%A6%E5%A4%A7%E7%BE%8E%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%95%E5%A3%AB%E9%80%89%E6%A0%A1%E6%8C%87%E5%8D%972019.pdf
 
