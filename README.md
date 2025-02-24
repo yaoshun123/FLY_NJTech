@@ -21,7 +21,7 @@
 
 --包含武大CS选校指南-2019：https://www.zedongpeng.com/uploads/%E6%AD%A6%E5%A4%A7%E7%BE%8E%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%95%E5%A3%AB%E9%80%89%E6%A0%A1%E6%8C%87%E5%8D%972019.pdf
 
-（全部已留存！！！！）
+（见“全部已留存！！！！”文件夹）
 
 吉林大学-吉大：2020 （已留存）
 
